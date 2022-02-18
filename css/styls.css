@@ -1,0 +1,90 @@
+/***********************tag selector***********************/
+body {
+  background-color: white;
+  text-align: center;
+font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+img {
+  height: 500px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 70%;
+  border-color: #008E89;
+  border-width: 5px;
+}
+h1{
+  color: #66BFBF;
+}
+h3{
+  color: #66BFBF;
+}
+/***********************class selector***********************/
+.the-Mehadek{
+  font-family: sans-serif;
+}
+.hanan_p{
+  height:150px;
+}
+.manu1{
+font-style:italic;
+  color: #900C3F;
+  font-size: 30px;
+}
+.colorbody{
+  background-color: #F0E487;
+}
+.bulysize{
+  font-size: 70px;
+  font-style: oblique;
+}
+.image-top{
+  text-align: center;
+  height: 200px;
+}
+.cloud-one{
+  height: 20%;
+  position: absolute;
+}
+.cloud-too{
+  height: 100px;
+  position: absolute;
+  left:  300px;
+}
+.pub-h1{
+  margin-top: 0;
+    font-family: 'Sacramento', cursive;
+}
+.tallk{
+  position:relative;
+  left: 30px;
+}
+
+.menu-div{
+  position: relative;
+  font-size: 30px;
+}
+.p-Activity{
+  margin: 0;
+  width: 100px;
+}
+.days-hours{
+text-align: center;
+  position: relative;
+  margin: 0;
+  width:1350px;
+}
+.days{
+  position: relative;
+  left: 40%;
+  width: 100px
+}
+.hour{
+  position: relative;
+  left: 48%;
+  bottom: 36px;
+  width: 100px;
+}
