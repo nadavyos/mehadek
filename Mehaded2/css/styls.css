@@ -1,0 +1,134 @@
+#title {
+  background-color: black;
+}
+
+.head-line {
+  background-color: black;
+  text-align: center;
+  padding: 150px;
+}
+
+h1 {
+  text-align: center;
+  color: #DFE0DF;
+  font-family: 'Metal Mania', cursive;
+  padding: 20px 0;
+}
+
+.h1-navbar {
+  text-align: center;
+  color: #DFE0DF;
+  font-family: 'Metal Mania', cursive;
+  padding: 20px 0;
+}
+
+.beer-photo {
+  width: 32%;
+}
+
+.itemnav {
+  margin: 5px 5px;
+}
+
+/* about-Us */
+#about-Us {
+  background-color: #2B2B2B;
+  padding: 100px 0;
+  line-height: 2.5rem;
+}
+
+.mehadek-class {
+  font-family: 'Metal Mania', cursive;
+  color: #DFE0DF;
+  font-size: 1.5rem;
+}
+
+.about-div-text {
+  background-color: black;
+}
+
+.text-boy {
+  width: 730px;
+  height: 313px;
+  text-align: center;
+  margin: 20px 0;
+}
+
+.about-Us-h1 {
+  text-align: center;
+  color: #DFE0DF;
+  font-family: 'Metal Mania', cursive;
+  padding: 20px 0;
+}
+
+.about-Us-p {
+  color: #fff;
+  position: relative;
+  left: 10px;
+  width: 100%;
+}
+
+.about-img {
+  background-color: #921224;
+}
+
+.bar-image {
+  width: 60%;
+  border-radius: 8px;
+  position: relative;
+  left: 150px;
+  top: 30px;
+  transform: rotate(15deg);
+}
+
+/* events-section */
+#events {
+  text-align: center;
+  background-color: black;
+  padding: 100px 0;
+}
+
+.carusel-events {
+  width: 40%;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: grey;
+  font-weight: bolder;
+  font-size: 1.5rem;
+}
+
+/* conect-us */
+#conect-us {
+  text-align: center;
+  background-color: #2B2B2B;
+}
+
+.conect-h2 {
+  padding: 50px;
+}
+
+.conect-div {
+  background-color: black;
+  padding: 15px;
+}
+}
+
+p {
+  color: #fff;
+}
+
+.h3-up {
+  color: grey;
+}
+
+.p-bottom {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bolder;
+}
+
+.maps {
+  padding-top: 50px;
+}
